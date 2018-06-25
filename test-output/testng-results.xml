@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="10" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Element is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Pass:Expected page is displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="418354" started-at="2018-06-25T11:23:30Z" finished-at="2018-06-25T11:30:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="418354" started-at="2018-06-25T11:23:30Z" finished-at="2018-06-25T11:30:29Z">
+      <class name="Script.BuyGiftCrd">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.BuyGiftCrd@2a742aa2]" name="before" is-config="true" duration-ms="20610" started-at="2018-06-25T11:24:48Z" finished-at="2018-06-25T11:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.BuyGiftCrd.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.BuyGiftCrd@2a742aa2]" name="Test" duration-ms="12564" started-at="2018-06-25T11:25:09Z" finished-at="2018-06-25T11:25:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.BuyGiftCrd@2a742aa2]" name="after" is-config="true" duration-ms="4025" started-at="2018-06-25T11:25:21Z" finished-at="2018-06-25T11:25:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=BuyGiftCrd.Test()[pri:0, instance:Script.BuyGiftCrd@2a742aa2] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.BuyGiftCrd -->
+      <class name="Script.Follow_luxire_Instragram">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.Follow_luxire_Instragram@2173f6d9]" name="before" is-config="true" duration-ms="22391" started-at="2018-06-25T11:29:12Z" finished-at="2018-06-25T11:29:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.Follow_luxire_Instragram.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.Follow_luxire_Instragram@2173f6d9]" name="Test" duration-ms="11763" started-at="2018-06-25T11:29:35Z" finished-at="2018-06-25T11:29:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.Follow_luxire_Instragram@2173f6d9]" name="after" is-config="true" duration-ms="3446" started-at="2018-06-25T11:29:46Z" finished-at="2018-06-25T11:29:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=Follow_luxire_Instragram.Test()[pri:0, instance:Script.Follow_luxire_Instragram@2173f6d9] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.Follow_luxire_Instragram -->
+      <class name="Script.Adjustingcollar">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.Adjustingcollar@7d70d1b1]" name="before" is-config="true" duration-ms="21690" started-at="2018-06-25T11:24:11Z" finished-at="2018-06-25T11:24:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.Adjustingcollar.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.Adjustingcollar@7d70d1b1]" name="Test" duration-ms="11921" started-at="2018-06-25T11:24:33Z" finished-at="2018-06-25T11:24:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.Adjustingcollar@7d70d1b1]" name="after" is-config="true" duration-ms="3275" started-at="2018-06-25T11:24:45Z" finished-at="2018-06-25T11:24:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=Adjustingcollar.Test()[pri:0, instance:Script.Adjustingcollar@7d70d1b1] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.Adjustingcollar -->
+      <class name="Script.FeedBack_Customer">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.FeedBack_Customer@3cb1ffe6]" name="before" is-config="true" duration-ms="21014" started-at="2018-06-25T11:25:25Z" finished-at="2018-06-25T11:25:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.FeedBack_Customer.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="FAIL" signature="Test()[pri:0, instance:Script.FeedBack_Customer@3cb1ffe6]" name="Test" duration-ms="434" started-at="2018-06-25T11:25:46Z" finished-at="2018-06-25T11:25:47Z">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a id="customer_login_link" href="/account/login"> could not be scrolled into view
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T15:15:08.936Z'
+System info: host: 'DINESH', ip: '192.168.43.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 60.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16752, moz:profile: C:\Users\hp\AppData\Local\T..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4d4bebca-e5c8-49f3-b23e-20f167394238]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a id="customer_login_link" href="/account/login"> could not be scrolled into view
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T15:15:08.936Z'
+System info: host: 'DINESH', ip: '192.168.43.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 60.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16752, moz:profile: C:\Users\hp\AppData\Local\T..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4d4bebca-e5c8-49f3-b23e-20f167394238
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy9.click(Unknown Source)
+at PAGE.Custom_made_Homepage.LoginBt(Custom_made_Homepage.java:65)
+at Script.FeedBack_Customer.Test(FeedBack_Customer.java:20)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.FeedBack_Customer@3cb1ffe6]" name="after" is-config="true" duration-ms="4261" started-at="2018-06-25T11:25:47Z" finished-at="2018-06-25T11:25:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=FAILURE method=FeedBack_Customer.Test()[pri:0, instance:Script.FeedBack_Customer@3cb1ffe6] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.FeedBack_Customer -->
+      <class name="Script.Product_WishList_Cart">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.Product_WishList_Cart@7e2d773b]" name="before" is-config="true" duration-ms="19900" started-at="2018-06-25T11:27:39Z" finished-at="2018-06-25T11:27:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.Product_WishList_Cart.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.Product_WishList_Cart@7e2d773b]" name="Test" duration-ms="69130" started-at="2018-06-25T11:27:59Z" finished-at="2018-06-25T11:29:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.Product_WishList_Cart@7e2d773b]" name="after" is-config="true" duration-ms="4650" started-at="2018-06-25T11:29:08Z" finished-at="2018-06-25T11:29:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=Product_WishList_Cart.Test()[pri:0, instance:Script.Product_WishList_Cart@7e2d773b] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.Product_WishList_Cart -->
+      <class name="Script.ChangeCountryAddProduct">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.ChangeCountryAddProduct@307f6b8c]" name="before" is-config="true" duration-ms="21728" started-at="2018-06-25T11:29:50Z" finished-at="2018-06-25T11:30:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.ChangeCountryAddProduct.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.ChangeCountryAddProduct@307f6b8c]" name="Test" duration-ms="13265" started-at="2018-06-25T11:30:12Z" finished-at="2018-06-25T11:30:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.ChangeCountryAddProduct@307f6b8c]" name="after" is-config="true" duration-ms="3642" started-at="2018-06-25T11:30:25Z" finished-at="2018-06-25T11:30:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=ChangeCountryAddProduct.Test()[pri:0, instance:Script.ChangeCountryAddProduct@307f6b8c] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.ChangeCountryAddProduct -->
+      <class name="Script.ReviewGiftCart">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.ReviewGiftCart@467aecef]" name="before" is-config="true" duration-ms="20912" started-at="2018-06-25T11:26:28Z" finished-at="2018-06-25T11:26:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.ReviewGiftCart.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="FAIL" signature="Test()[pri:0, instance:Script.ReviewGiftCart@467aecef]" name="Test" duration-ms="9890" started-at="2018-06-25T11:26:49Z" finished-at="2018-06-25T11:26:59Z">
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[: 
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T15:15:08.936Z'
+System info: host: 'DINESH', ip: '192.168.43.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 60.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6364, moz:profile: C:\Users\hp\AppData\Local\T..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3b2d0f69-4238-4d47-ae11-43b38e7ae0a0
+*** Element info: {Using=xpath, value=//a[.='Gift Cards']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: : 
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T15:15:08.936Z'
+System info: host: 'DINESH', ip: '192.168.43.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 60.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 6364, moz:profile: C:\Users\hp\AppData\Local\T..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 3b2d0f69-4238-4d47-ae11-43b38e7ae0a0
+*** Element info: {Using=xpath, value=//a[.='Gift Cards']}
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:419)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.click(Unknown Source)
+at PAGE.Custom_made_Homepage.GiftCart(Custom_made_Homepage.java:107)
+at Script.ReviewGiftCart.Test(ReviewGiftCart.java:27)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.ReviewGiftCart@467aecef]" name="after" is-config="true" duration-ms="3443" started-at="2018-06-25T11:26:59Z" finished-at="2018-06-25T11:27:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=FAILURE method=ReviewGiftCart.Test()[pri:0, instance:Script.ReviewGiftCart@467aecef] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.ReviewGiftCart -->
+      <class name="Script.ProductTOCart">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.ProductTOCart@4d50efb8]" name="before" is-config="true" duration-ms="19850" started-at="2018-06-25T11:27:03Z" finished-at="2018-06-25T11:27:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.ProductTOCart.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.ProductTOCart@4d50efb8]" name="Test" duration-ms="12977" started-at="2018-06-25T11:27:22Z" finished-at="2018-06-25T11:27:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.ProductTOCart@4d50efb8]" name="after" is-config="true" duration-ms="3217" started-at="2018-06-25T11:27:35Z" finished-at="2018-06-25T11:27:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=ProductTOCart.Test()[pri:0, instance:Script.ProductTOCart@4d50efb8] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.ProductTOCart -->
+      <class name="Script.Customize_Product_Style">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.Customize_Product_Style@2a556333]" name="before" is-config="true" duration-ms="22772" started-at="2018-06-25T11:23:30Z" finished-at="2018-06-25T11:23:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.Customize_Product_Style.test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Script.Customize_Product_Style@2a556333]" name="test" duration-ms="14849" started-at="2018-06-25T11:23:53Z" finished-at="2018-06-25T11:24:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.Customize_Product_Style@2a556333]" name="after" is-config="true" duration-ms="3339" started-at="2018-06-25T11:24:08Z" finished-at="2018-06-25T11:24:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=Customize_Product_Style.test()[pri:0, instance:Script.Customize_Product_Style@2a556333] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.Customize_Product_Style -->
+      <class name="Script.Customise_Product_Size">
+        <test-method status="PASS" signature="before(java.lang.reflect.Method)[pri:0, instance:Script.Customise_Product_Size@3dfc5fb8]" name="before" is-config="true" duration-ms="20197" started-at="2018-06-25T11:25:51Z" finished-at="2018-06-25T11:26:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Script.Customise_Product_Size.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Script.Customise_Product_Size@3dfc5fb8]" name="Test" duration-ms="13626" started-at="2018-06-25T11:26:11Z" finished-at="2018-06-25T11:26:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Element is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Pass:Expected page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="after(org.testng.ITestResult)[pri:0, instance:Script.Customise_Product_Size@3dfc5fb8]" name="after" is-config="true" duration-ms="3430" started-at="2018-06-25T11:26:25Z" finished-at="2018-06-25T11:26:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=Customise_Product_Size.Test()[pri:0, instance:Script.Customise_Product_Size@3dfc5fb8] output=Pass:Element is displayed]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Script.Customise_Product_Size -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
